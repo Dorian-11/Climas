@@ -1,0 +1,66 @@
+body{
+  background-image: url(https://png.pngtree.com/background/20210709/original/pngtree-blue-sky-white-clouds-sun-cool-picture-image_943775.jpg);
+
+}
+.mx-auto{
+  color: yellow;
+  font-family:fantasy;;
+  text-shadow: 1px 1px 1px black;
+
+
+}
+
+.App {
+  text-align: center;
+  
+  
+}
+
+.input-group{
+  width: 70%;
+}
+
+.card{
+  max-width: 60%;
+}
+
+.card-title{
+  position: absolute;
+  padding: 20px;
+}
+
+.card-date{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 60px;
+}
+
+.card-temp{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 260px;
+  font-size: 50px;
+}
+
+.card-desc{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 320px;
+}
+
+.card-date{
+  color: yellow;
+  font-size: 30px;
+  font-family:fantasy;;
+  text-shadow: 1px 1px 1px black;
+
+}
+
+.card-title{
+  color:  black;
+  font-family:fantasy;;
+  font-size: 50px;
+  padding: 10px;
+  text-shadow: 2px 2px 2px #fff;
+
+}
